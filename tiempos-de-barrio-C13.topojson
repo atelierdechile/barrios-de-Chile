@@ -3,7 +3,7 @@
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.3506926, -33.509304]},"properties": {"Persona o Empresa": "Fabiola Salinas", "Obra": "Fundadora Grupo Raipillán", "Capítulo": "1", "Barrio": "La Legua ", "Telefono": " ", "Email": " ", "Sitio Web": ""} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.3506926, -33.509304]},"properties": {"Persona o Empresa": "Gustavo Arias", "Obra": "Muralista", "Capítulo": "1", "Barrio": "La Legua ", "Telefono": " ", "Email": " ", "Sitio Web": ""} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.3506926, -33.509304]},"properties": {"Persona o Empresa": "Helados Me Piache ex SanVal", "Obra": "Fábrica de Helados ", "Capítulo": "1", "Barrio": "La Legua ", "Telefono": " ", "Email": " ", "Sitio Web": ""} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.3506926, -33.509304]},"properties": {"Persona o Empresa": "Feria de La Legua", "Obra": "Feria libre", "Capítulo": "1", "Barrio": "La Legua ", "Telefono": " ", "Email": " ", "Sitio Web": ""} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.3506926, -33.509304]},"properties": {"Persona o Empresa": "Feria de La Legua", "Obra": "Feria libre", "Capítulo": "1", "Barrio": "La Legua ", "Telefono": " ", "Email": " ", "Sitio Web": ""} }
 
   ]  
 }
