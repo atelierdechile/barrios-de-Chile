@@ -1,2 +1,2 @@
 # barrios-de-Chile
-Conociendo Santiago un poco mejor
+Conociendo mejor Chile a través de sus barrios
